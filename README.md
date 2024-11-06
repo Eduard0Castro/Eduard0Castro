@@ -1,5 +1,5 @@
 ## Hello!👋 This is my GitHub profile
-My name is Eduardo Castro. I'm eletronic engeneering student at UNIFEI (Universidade Federal de Itajubá) and the General Captain of the autonomous drones team [Black Bee Drones](https://blackbeedrones.com)
+My name is Eduardo Castro. I'm eletronic engeneering student at UNIFEI (Universidade Federal de Itajubá). 
 
 </br>
 
