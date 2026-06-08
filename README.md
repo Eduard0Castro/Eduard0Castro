@@ -9,8 +9,8 @@ My name is Eduardo Castro. I'm eletronic engeneering student at UNIFEI (Universi
 
 <div align="center">
   
-![Main Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Eduard0Castro&theme=blue-green)
-![My stats](https://github-readme-stats.vercel.app/api?username=Eduard0Castro&show_icons=true&theme=transparent) 
+![Main Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Eduard0Castro&theme=github_dark)
+![My stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Eduard0Castro&theme=github_dark)
 
 </div>
 
